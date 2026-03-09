@@ -1,0 +1,2 @@
+-rw-r--r-- 1 dayarojas dayarojas 67 Mar  9 16:10 /var/log/mi-servicio1.log
+-rw-r--r-- 1 dayarojas dayarojas 87 Mar  8 23:56 /var/log/mi-servicio1.log.1.gz

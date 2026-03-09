@@ -1,0 +1,3 @@
+
+reading config file mi_servicio
+rotating pattern: /var/log/mi-servicio1.log  after 1 days (7 rotations)
