@@ -1,7 +1,7 @@
 
 # 03 — Apache Web Server Setup
 
-## 🎯 Objective
+##  Objective
 Deploy a basic website using Apache with a custom VirtualHost.
 
 ---
@@ -46,3 +46,4 @@ sudo a2ensite myweb.conf
 sudo a2dissite 000-default.conf
 sudo systemctl reload apache2
 ```
+
