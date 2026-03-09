@@ -1,0 +1,14 @@
+Status: active
+Logging: on (low)
+Default: deny (incoming), allow (outgoing), disabled (routed)
+New profiles: skip
+
+To                         Action      From
+--                         ------      ----
+2222                       ALLOW IN    Anywhere                  
+8080                       ALLOW IN    Anywhere                  
+80                         ALLOW IN    Anywhere                  
+2222 (v6)                  ALLOW IN    Anywhere (v6)             
+8080 (v6)                  ALLOW IN    Anywhere (v6)             
+80 (v6)                    ALLOW IN    Anywhere (v6)             
+

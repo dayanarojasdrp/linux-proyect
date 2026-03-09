@@ -1,0 +1,3 @@
+○ mi-servicio.service - Mi primer servicio systemd
+     Loaded: loaded (/etc/systemd/system/mi-servicio.service; disabled; preset: enabled)
+     Active: inactive (dead)
