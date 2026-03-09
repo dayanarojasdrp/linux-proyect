@@ -1,0 +1,2 @@
+192.168.64.1 dev enp0s1 lladdr ae:07:75:f2:25:64 REACHABLE 
+fe80::ac07:75ff:fef2:2564 dev enp0s1 lladdr ae:07:75:f2:25:64 router STALE 
