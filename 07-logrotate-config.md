@@ -23,3 +23,14 @@ To manage log rotation in a production‑like environment, a custom rule was cre
     notifempty
     create 644 dayarojas dayarojas
 }
+```
+Testing the Configuration
+Simulate rotation (debug mode, no changes applied):
+```
+sudo logrotate -d /etc/logrotate.conf
+```
+Force rotation immediately:
+```
+sudo logrotate -f /etc/logrotate.conf
+```
+
